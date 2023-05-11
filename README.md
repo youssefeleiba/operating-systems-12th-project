@@ -1,2 +1,2 @@
-# operating-systems-12th-project
-banker's algorithm for deadlocks prevention.
+# operating-systems-12th-project. Youssef Wael Ahmed(19105908)
+Banker's algorithm for deadlocks prevention.
